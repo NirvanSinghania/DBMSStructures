@@ -1,4 +1,4 @@
-# B+ Tree
+# B+ Tree:
 
 M = Number of buffers available
 B = Size of memory buffer
